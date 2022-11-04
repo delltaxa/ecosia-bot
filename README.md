@@ -39,6 +39,16 @@ git clone https://github.com/delltaxa/ecosia-bot.git ; cd ecosia-bot/ ; chmod +x
 
 ![image](https://user-images.githubusercontent.com/114283067/200019916-44de5446-e06a-460d-878e-97964bcf3d36.png)
 
+# No Devtools?
+
+If you're on Andoid you will not be able to open devtools,
+ofc I've thought about that and made a tool in the ``` Android/ ``` 
+Directory so you can extract the cookie from the url ecosia sent you per main
+
+Example:
+
+``` https://www.ecosia.com/account/verify?token=... ```
+
 # Note
 
 You're Account can be banned!!!
