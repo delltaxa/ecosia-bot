@@ -37,4 +37,7 @@ git clone https://github.com/delltaxa/ecosia-bot.git ; cd ecosia-bot/ ; chmod +x
 5. copy the cookie and paste it in the cookie.txt file
 6. Run the ./farm.sh
 
+![image](https://user-images.githubusercontent.com/114283067/200018802-d2c57de8-3622-4ffb-9e6b-97dfeb49a90d.png)
+
+
 # FARM TREEEEEEEEES
