@@ -10,7 +10,7 @@ echo -e "  \e[1;33mv1.0\e[1;32m  \/     \/          \/        \/          \/    
 echo -e "\e[0m"
 
 cookies=$(cat ./cookie.txt)
-kword="imfarming"
+kword=$RANDOM
 
 echa=""
 for i in $(echo $cookies | tr ";" "\n")
@@ -34,6 +34,8 @@ do
     python3 ./print_counter.py $counter
 
     echo ""
+    echo -e "\e[1;34m[*] \e[0mChanging keyword..."
+    kword=$RANDOM
     echo -e "\e[1;34m[*] \e[0mSleeping 10 Seconds..."
     sleep 10
 done
