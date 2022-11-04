@@ -34,6 +34,6 @@ do
     python3 ./print_counter.py $counter
 
     echo ""
-    echo -e "\e[1;34m[*] \e[0mSleeping 4 Seconds..."
-    sleep 4
+    echo -e "\e[1;34m[*] \e[0mSleeping 10 Seconds..."
+    sleep 10
 done
