@@ -39,5 +39,8 @@ git clone https://github.com/delltaxa/ecosia-bot.git ; cd ecosia-bot/ ; chmod +x
 
 ![image](https://user-images.githubusercontent.com/114283067/200019916-44de5446-e06a-460d-878e-97964bcf3d36.png)
 
+# Note
+
+You're account can be banned!
 
 # FARM TREEEEEEEEES
