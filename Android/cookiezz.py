@@ -1,4 +1,3 @@
-import requests
 import subprocess
 
 print("""\033[36m
