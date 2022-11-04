@@ -22,3 +22,19 @@ Add perms to run farm.sh
 ```
 chmod +x ./farm.sh
 ```
+
+One liner
+```
+git clone https://github.com/delltaxa/ecosia-bot.git ; cd ecosia-bot/ ; chmod +x ./farm.sh
+```
+
+# Usage
+
+1. go on ecosia.org
+2. login to your account
+3. go in to the dev console
+4. print out your cookie with ``` document.cookie ``` <br/>
+5. copy the cookie and paste it in the cookie.txt file
+6. Run the ./farm.sh
+
+# FARM TREEEEEEEEES
