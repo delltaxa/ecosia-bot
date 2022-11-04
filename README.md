@@ -41,9 +41,9 @@ git clone https://github.com/delltaxa/ecosia-bot.git ; cd ecosia-bot/ ; chmod +x
 
 # No Devtools?
 
-If you're on Andoid you will not be able to open devtools,
-ofc I've thought about that and made a tool in the ``` Android/ ``` 
-Directory so you can extract the cookie from the url ecosia sent you per main
+If you're on Andoid you will not be able to open devtools... <br/>
+ofc I've thought about that and made a tool in the ``` Android/ ``` <br/>
+Directory so you can extract the cookie from the url ecosia sent you per mail
 
 Example:
 
